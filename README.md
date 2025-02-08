@@ -23,7 +23,7 @@ This project is an **Employee Performance Dashboard** built using **Tableau**, d
 ## 🛠 Setup & Usage  
 1. Download or clone this repository:  
    ```sh
-   git clone https://github.com/Kavin-Antony/employee-performance-dashboard.git
+   git clone https://github.com/Kavin-Antony/Employee-Performance-Dashboard-using-Tableau.git
 2. Open Tableau Desktop or Tableau Public
 3. Connect the provided dataset (CSV/Excel)
 4. Load the Employee Performance Dashboard.twb file
